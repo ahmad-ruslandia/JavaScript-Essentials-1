@@ -47,9 +47,9 @@ while(!isOver){
             break;
 
         case "add":
-            let name=prompt("enter name");
-            let phone=prompt("enter phone");
-            let email=prompt("enter email");
+            let name=prompt("input name");
+            let phone=prompt("input phone");
+            let email=prompt("input email");
 
             if(name === null || phone === null || email === null){
                 alert("invalid inputs");

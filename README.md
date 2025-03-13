@@ -30,7 +30,7 @@ The repository is organized into the following main sections:
 
   - This module focuses on JavaScript operators and how to interact with users through input and output.
 
-- **Badge: JSE: Module 4: Control Flow – Conditional Execution and Loops**
+- **Badge: JSE: Module 4: Control Flow - Conditional Execution and Loops**
 
   - Here, you will learn about conditional statements and loops in JavaScript, allowing you to control the flow of your code.
 

@@ -39,4 +39,4 @@ The repository is organized into the following main sections:
   - This module covers the concept of functions in JavaScript, including how to define and use functions in your code.
 
 - **Badge: JSE: Module 6: Errors, Exceptions, Debugging, and Troubleshooting**
-  - In this module, you will learn how to handle errors and exceptions in JavaScript, as well as techniques for debugging and troubleshooting your code.
+  - In this module, you will learn how to handle errors and exceptions in JavaScript, as well as techniques for debugging and troubleshooting your code
